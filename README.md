@@ -1,4 +1,4 @@
-check here the Project Output:
+Check here the Project Output:
 
 https://navigationmenupagesufya.netlify.app/
 
